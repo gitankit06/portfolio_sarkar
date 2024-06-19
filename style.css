@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(8, 8, 47);
+    font-family: "Poppins", sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    background-color: rgb(48, 58, 145);
+   
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+    }
+    nav ul li a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+    }
+    nav ul li a:hover{
+    color: rgb(120, 120, 202);
+    font: size 1.04rem;
+    }
+    .left{
+        font-size: 1.5rem
+    }
+    .firstsection{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin: 23px 0;
+        font-size: 1.5rem;
+    }
+    .firstsection{
+    }
+    .firstsection > div{
+        width: 30%;
+        
+    }
+
+    .leftsection{
+        color: aliceblue;
+        font-size: 3rem;
+        margin: 60px;
+        
+    }
+    .rightsection img{
+        width: 70%;
+       margin-top: 23px;
+       box-shadow: 20px;
+        }
+    .purple{
+        color: blueviolet;
+        font-size: 60px
+    }
+    .editor{
+        color: blueviolet;
+        font-size: 40px;
+    }
+    #element{
+        color: blueviolet;
+        font-size: 60px;
+    }
+    .secondsection{
+        max-width: 80vw;
+        margin: auto;
+        color: white;
+        font-size: 35px;
+        height: 70vh;
+    }
+    .gray{
+            font-size: 10px;
+            margin-bottom: 0%;
+        }
+        .secondsection h1{
+            font-size: 30px;
+            margin-top: 0%;
+        }
+        .secondsection .marks{
+            color: aqua;
+            margin-top: 0%;
+        }
+        .secondsection .box{
+            background: white;
+             width: 80vw;
+             height: 2px;
+             margin: 29px;
+             display: flex;
+        }
+        
+        .secondsection .vertical{
+            height: 250px;
+            width: 2px;
+            background-color: white;
+            margin: 0 160px;
+        }
+        .secondsection .text{
+            position: relative;
+            top: -49px;
+            left: 111px;
+        }
+        .secondsection .th{
+            position: relative;
+            top: -49px;
+            left: 111px;
+        }
+        .secondsection .gra{
+            position: relative;
+            top: -49px;
+            left: 50px;
+        }
+        .secondsection .vtext{
+            margin: 43px;
+            margin-top: -33px;
+
+        }
+        .secondsection .dtext{
+            margin: 43px;
+            margin-top: -33px;
+
+        }
+        .secondsection .gtext{
+            margin: 43px;
+            margin-top: -33px;
+        }
+        .third .skl{
+            color: white;
+            font-size: 30px;
+            margin-left: 53px;;
+            margin-right: 100%;
+         }
+         .third .li{
+         color: aliceblue;
+         font-size: 27px;
+         font-style:italic;
+        
+         
+         }
